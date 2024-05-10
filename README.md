@@ -422,13 +422,13 @@ contact.html
 
 ## OUTPUT:
 
-![alt text](keerthi/pharmaapp/static/homepage.png)
+![homepage](https://github.com/ikeerthivasanswaminathan/Pharma/assets/148937372/37b775a6-7dbf-4f17-975c-ee3e6db2f320)
 
-![alt text](keerthi/pharmaapp/static/whatweprovide.png)
+![whatweprovide](https://github.com/ikeerthivasanswaminathan/Pharma/assets/148937372/eba621bd-da27-4d42-ada4-187874558399)
 
-![alt text](keerthi/pharmaapp/static/aboutus.png)
+![aboutus](https://github.com/ikeerthivasanswaminathan/Pharma/assets/148937372/b403ec40-c2d2-4482-87f4-8ecc9e63b975)
 
-![alt text](keerthi/pharmaapp/static/contactus.png)
+![contactus](https://github.com/ikeerthivasanswaminathan/Pharma/assets/148937372/90fee1d7-71e9-48a2-a73e-dc5b21ec99d4)
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
